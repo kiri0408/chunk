@@ -1,0 +1,16 @@
+
+サブスクリプション			
+	オプトアウト エビデンス採取		
+	log Analyticsワークスペース作成		
+aoaiごとに			
+	ﾓﾃﾞﾙﾃﾞﾌﾟﾛｲ		
+		gpt-4o  	standard
+		text-embedding-3-small   	standard
+		gpt-4.1-mini	グローバル
+		o3-mini	グローバル
+	クォータ設定		
+	診断の設定（log Analytics連携）		
+	IP制限		
+
+サンドボックス説明資料
+
