@@ -16,3 +16,5 @@ aoaiごとに
 
 multiのrequirement.txt, bat 
 PPTへ反映。
+
+グローバルデプロイOK?  設定後、クラウドチェックシート完成させて、GR説明。
